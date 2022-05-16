@@ -1,0 +1,57 @@
+constribute to free software: firsttimersonly.com
+
+
+GOOD methods to learn coding.
+USE
+UNDERSTAND
+BUILD
+
+Break the codes
+play around with it
+use it
+
+build sth with it.
+
+You do not need to understand all at firsttimersonly
+
+Object Oriented Programming(OOP)
+What are objects?
+
+we can create objects using:
+object literals
+constructor function
+syntactic suger, class
+
+OOP is a Programming paradigm
+Encapsulation
+Polymophysm
+Encapsulation
+Abstraction
+
+Encapsulation is the process of storing 
+functions(methods) with their associated 
+data (properties) into an object.
+Why is Encapsulation important?
+--It help with organisation 
+--It help to solve the problem of spaghetti codes
+--Its easy to add new features and functionalities
+
+(made it easier to add new stuff)
+(made it easier to read through your code)
+(made it so you are not afraid to make changes)
+
+
+Abstraction
+Hide details and show essentials
+enables you to implement things without understanding or even thinking  of whats happening
+it enables us to create things onces
+(SIMPLE, PREDICTABLE AND MANAGEABLE)
+(smaller more managerable pieces of code)
+
+
+A hundred hour project: A fullstack project
+MVP: MINIMUM VIABLE PRODUCT: A product that proves that your idea works. Then you can add up later
+
+coding challenges
+100hrs project
+cide war everyday
