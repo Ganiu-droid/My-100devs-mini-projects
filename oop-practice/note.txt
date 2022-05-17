@@ -21,13 +21,13 @@ we can create objects using:
 object literals
 constructor function
 syntactic suger, class
-
+========================================
 OOP is a Programming paradigm
 Encapsulation
 Polymophysm
 Encapsulation
 Abstraction
-
+==================================
 Encapsulation is the process of storing 
 functions(methods) with their associated 
 data (properties) into an object.
@@ -40,7 +40,7 @@ Why is Encapsulation important?
 (made it easier to read through your code)
 (made it so you are not afraid to make changes)
 
-
+=================================
 Abstraction
 Hide details and show essentials
 enables you to implement things without understanding or even thinking  of whats happening
@@ -49,8 +49,30 @@ it enables us to create things onces
 (smaller more managerable pieces of code)
 
 
+===============================
+Inheritance
+make a class from another class for a hierachy 
+of class that share a set of properties and methods
+
+================================
+using Getters and setters
+to make some properties and method unchangeable from the outside
+
+
 A hundred hour project: A fullstack project
 MVP: MINIMUM VIABLE PRODUCT: A product that proves that your idea works. Then you can add up later
+
+=======================
+Sibling descendants of a base class will all 
+have the dame interface but varying implementations
+
+
+===========================
+Polymorphism
+code written uses an interface authomatically knows how to work with 
+any number of different onjects that provide the interface
+Provides a way to perform a single action in different forms
+Help you avoid if/else and switch and case statement
 
 coding challenges
 100hrs project

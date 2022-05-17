@@ -63,3 +63,5 @@ let pizzaOne = new MakePizza('round', 'large', 'spinach', 'stuffed')
 let pizzaTwo = new MakePizza('round', 'large', 'spinach', 'stuffed')
 
 console.log(pizzaOne)
+
+
