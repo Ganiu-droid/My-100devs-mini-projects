@@ -56,3 +56,7 @@ class Law extends Faculty{
     }
 
 }
+
+
+
+window.alert('Please enter a number')

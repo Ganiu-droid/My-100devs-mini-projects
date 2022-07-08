@@ -1,0 +1,16 @@
+the v8 engine breaks down the js code
+ to what the computer can understand
+
+ just as the browser has built in api, node
+ also come with build in modules
+
+ http modules: talk to the network / network access
+
+ fs: get access to file system
+
+ and others like npm
+
+
+ call stack
+ call back queue
+  
